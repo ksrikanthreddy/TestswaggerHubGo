@@ -59,7 +59,7 @@ var routes = Routes{
 	Route{
 		"Login",
 		strings.ToUpper("Post"),
-		"/ADP9529/hpe/1.0.0/login",
+		"/ADP9529/hpe/1.0.0/logintest",
 		Login,
 	},
 }

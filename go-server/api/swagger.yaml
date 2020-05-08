@@ -17,7 +17,7 @@ tags:
 schemes:
 - "https"
 paths:
-  /login:
+  /logintest:
     post:
       tags:
       - "HPE User"
